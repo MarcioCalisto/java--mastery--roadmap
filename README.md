@@ -103,5 +103,5 @@ Este projeto está sob a licença **MIT**. Consulte o arquivo [LICENSE](./LICENS
 
 ---
 
-💡 **Autor**: [Seu Nome](https://github.com/MarcioCalisto)  
+💡 **Autor**: [Márcio Calisto](https://github.com/MarcioCalisto)  
 🌟 Dê uma ⭐ se este roadmap ajudou você!
